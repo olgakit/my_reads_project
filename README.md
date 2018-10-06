@@ -6,7 +6,7 @@ MyReads: A Book Lending App allows the user to search different genre of literat
 
 
 * [Instructions](#instructions)
-* [What You're Getting] (#contents)
+* [What You're Getting](#contents)
 * [Contributing](#contributing)
 * [Credits](#credits)
 
